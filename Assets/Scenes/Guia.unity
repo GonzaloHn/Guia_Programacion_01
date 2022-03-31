@@ -128,7 +128,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &203157797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -184,6 +184,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85fa88cc1a36b054d92a617eb24111c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  num1: 70
+  num2: 7
 --- !u!4 &272941713
 Transform:
   m_ObjectHideFlags: 0
@@ -214,7 +216,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &480816347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -227,6 +229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0326ca13fa03bfd4bbae00fcfbd5fb4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  num1: 7
+  num2: 97
 --- !u!4 &480816348
 Transform:
   m_ObjectHideFlags: 0
@@ -408,7 +412,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1564236911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -421,6 +425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 238371c065344de48a935d3b4c74f49a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: Carlitos
 --- !u!4 &1564236912
 Transform:
   m_ObjectHideFlags: 0
@@ -451,7 +456,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2003506737
 MonoBehaviour:
   m_ObjectHideFlags: 0
