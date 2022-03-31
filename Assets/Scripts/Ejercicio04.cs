@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Ejercicio04 : MonoBehaviour
 {
-    int num1;
-    int num2;
+    public int num1;
+    public int num2;
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("La suma entre" + num1 + " y " + num2 + "da como resultado " + (num1 + num2) + ".");
+        Debug.Log("La suma entre " + num1 + " y " + num2 + " da como resultado " + (num1 + num2) + ".");
     }
 
     // Update is called once per frame

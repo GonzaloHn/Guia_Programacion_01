@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Ejercicio03 : MonoBehaviour
 {
-    string name;
+    public string name;
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hola" + name);
+        Debug.Log("Hola " + name);
     }
 
     // Update is called once per frame
